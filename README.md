@@ -72,9 +72,16 @@ Preferential Attachment : Another method of “preferential attachment” to cre
 
 ### CREDITS AND REFERENCES
 
-This model is based on the SEIR epidemic model.An overview of Epidemic Model : WIKIPEDIA : http://en.wikipedia.org/wiki/Epidemic_model#The_SEIR_model
-A model for understanding SEIR : Global Health - SEIR Model : http://www.public.asu.edu/~hnesse/classes/seir.html?Beta=0.9Γ=0.2Σ=0.5Μ=0Ν=0&initialS=10&initialE=1&initialI=0&initialR=0&iters=15
-An instance of the spreading of mobile virus : http://www.securelist.com/en/blog/8131/Obad_a_Trojan_now_being_distri%20buted_via_mobile_botnets
+This model is based on the SEIR epidemic model.
+
+An overview of Epidemic Model :
+WIKIPEDIA : http://en.wikipedia.org/wiki/Epidemic_model#The_SEIR_model
+
+A model for understanding SEIR :
+Global Health - SEIR Model : http://www.public.asu.edu/~hnesse/classes/seir.html?Beta=0.9&Gamma=0.2&Sigma=0.5&Mu=0&Nu=0&initialS=10&initialE=1&initialI=0&initialR=0&iters=15
+
+An instance of the spreading of mobile virus :
+http://www.securelist.com/en/blog/8131/Obad_a_Trojan_now_being_distri%20buted_via_mobile_botnets
 
 ## Bluetooth Virus Spreading: A Modified SIR Model
 
