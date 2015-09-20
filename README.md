@@ -1,5 +1,6 @@
 # The study of the spreading pattern of mobile phone virus
-Project for the exam of complex systems.
+
+Project for the exam of [complex systems](http://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2013/366996).
 
 It simulates the spreading pattern of mobile phone  virus  by  means  of  SMS  spam  and  Bluetooth.  By  varying  all  the parameters  of  correspondent  model  and  analyzing  the  different  results,  the study will find out how each parameter will influence the propagation of mobile phone virus.
 
@@ -63,6 +64,7 @@ Can calculate the average distance between the infected nodes and the initial in
 ### NETLOGO FEATURES
 
 1.A modified SEIR model is propsed accordingAccording to the real spreading pattern of mobile phone viruses.
+
 2.Using “preferential attachment” to create a scale free network with precise average degree which is realized in a different way from the model “Virus on a Network” and the model “Preferential Attachment”
 
 ### RELATED MODELS
